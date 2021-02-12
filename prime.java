@@ -7,6 +7,7 @@ public class prime {
 		System.out.println("Enter number to check whether prime or not");
 		int a;
 		a=sc.nextInt();
+		System.out.println("From github");
 		int i=0,flag=0;
 		for(i=2;i<=Math.sqrt(a);i++)
 		{
