@@ -1,2 +1,3 @@
 this is first file for github
 this is from github
+line 3 in branch1
