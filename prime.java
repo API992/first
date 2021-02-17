@@ -3,10 +3,9 @@ public class prime {
 		
 
 	public static void main(String[] args) {
-		Scanner sc=new Scanner(System.in);
-		System.out.println("Enter number to check whether prime or not");
+		
 		int a;
-		a=sc.nextInt();
+		a=19;
 		System.out.println("From github");
 		int i=0,flag=0;
 		for(i=2;i<=Math.sqrt(a);i++)
